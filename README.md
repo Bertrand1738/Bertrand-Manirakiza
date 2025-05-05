@@ -14,7 +14,7 @@ Hello! I'm a Backend Web Development student at ALX, driven by a mission to mast
 - 💡 I believe in using tech to build inclusive, secure, and accessible platforms
 - 👯 I’m looking to collaborate on meaningful real-life projects
 - 💬 Ask me about Python, JavaScript, SQL, Java, mobile dev, and cybersecurity
-- 📫 How to reach me: [Your email] | [LinkedIn profile link]
+- 📫 How to reach me: manirakizabertrand290@gmail.com | www.linkedin.com/in/manirakiza-bertrand
 
 ---
 
@@ -24,7 +24,7 @@ Hello! I'm a Backend Web Development student at ALX, driven by a mission to mast
 💻 Languages:
 Python | JavaScript (Node.js, Express) | Java | SQL
 
-🧰 Tools & Frameworks:
+🧰 Tools & Frameworks I am learning:
 Django | Flask | React | PostgreSQL | Docker | Git | Bash
 
 📱 Mobile Development:
